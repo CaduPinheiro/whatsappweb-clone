@@ -1,4 +1,4 @@
-# Netflix Clone
+# Whatsapp Clone
 
 Projeto desenvolvido, utilizando React, como estudo sobre framework Frontend.
 
